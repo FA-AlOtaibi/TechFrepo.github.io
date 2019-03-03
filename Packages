@@ -1,14 +1,14 @@
 Package: (com.techf.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Name: Call Recorder X+ (iOS 12)
+Version: 3.01-3
+Size: 7.59 MB
 Architecture: iphoneos-arm
-Description: (Tweak Description)
+Description: Native Call Recorder for iOS 12
 Maintainer: (TechF) <nm-@outlook.sa>
 Author: (TechF) <nm-@outlook.sa>
 Section: (Cydia Section)
-MD5sum:
+MD5sum:40a162b12e8b21ecaa6fcef023a498cf
 SHA1sum:
 SHA256sum:
-Filename: debs//(Tweak Name).deb
+Filename: debs//callrecorderxplus.deb
 
